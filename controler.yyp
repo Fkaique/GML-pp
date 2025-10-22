@@ -36,9 +36,12 @@
   "name":"controler",
   "resources":[
     {"id":{"name":"obj_colision","path":"objects/obj_colision/obj_colision.yy",},},
-    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_player_pf","path":"objects/obj_player_pf/obj_player_pf.yy",},},
+    {"id":{"name":"obj_player_td","path":"objects/obj_player_td/obj_player_td.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"scr_controls","path":"scripts/scr_controls/scr_controls.yy",},},
+    {"id":{"name":"src_plataformer","path":"scripts/src_plataformer/src_plataformer.yy",},},
+    {"id":{"name":"src_top_down","path":"scripts/src_top_down/src_top_down.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
